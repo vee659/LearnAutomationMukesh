@@ -10,6 +10,7 @@ public class Hello {
 	{
 		System.out.println("Hey");
 		System.out.println("Baba");
+		int i=20;
 		
 	}
 	
